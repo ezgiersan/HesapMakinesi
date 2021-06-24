@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "HesapMakinesi\HesapMakinesi.csproj", "{99B74D80-E3D6-4E0C-B414-4B5B6984FB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestHesap", "UnitTestHesap\UnitTestHesap.csproj", "{70246F84-3004-473C-BF78-53B23FAC7798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B74D80-E3D6-4E0C-B414-4B5B6984FB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B74D80-E3D6-4E0C-B414-4B5B6984FB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B74D80-E3D6-4E0C-B414-4B5B6984FB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B74D80-E3D6-4E0C-B414-4B5B6984FB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70246F84-3004-473C-BF78-53B23FAC7798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70246F84-3004-473C-BF78-53B23FAC7798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70246F84-3004-473C-BF78-53B23FAC7798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70246F84-3004-473C-BF78-53B23FAC7798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041164CA-2CEC-47A8-9F53-FE4295CA13C5}
+	EndGlobalSection
+EndGlobal
